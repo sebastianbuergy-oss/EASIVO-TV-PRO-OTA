@@ -3,8 +3,8 @@
 Öffentliche Installationsartefakte für die signierte Ad-hoc-Testversion von EASIVO TV PRO.
 
 - Version: 1.0.0
-- Build: 12
-- Quellcommit: `068aeaa05fcc285d69a2b5b24622f0c93093ac64`
-- IPA SHA-256: `aadef6695cb0dc20a92c2c4cab415f22a3ad5ff6a71e921ee06a4289dc42171f`
+- Build: 15
+- Quellcommit: `6eba0dd58e61aad677d7dc83e2a7d5cd93be5718`
+- IPA SHA-256: `face9b93ff60f7ab6f6fc14e95b3b65fc4a02b77967ea855aef1c8e745acbcb6`
 
 Die IPA ist ausschließlich auf den im eingebetteten Ad-hoc-Profil registrierten Geräten installierbar.
