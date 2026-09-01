@@ -1,0 +1,11 @@
+{
+  "bundle_identifier": "ch.sebastianbuergy.easivotvpro",
+  "version": "1.0.0",
+  "build": "25",
+  "commit": "380e437c2fdb4c9a1ac24a218f98c719d9d36cbe",
+  "ipa_sha256": "a9ab15363fccb1b117e4007e3bcf913e0d374ff1bed18e50114da15adde61468",
+  "ad_hoc_registered_device_count": 2,
+  "profile_expiration": "2027-09-01",
+  "github_actions_run": 33560815409,
+  "main_ota_unchanged_build": 15
+}
