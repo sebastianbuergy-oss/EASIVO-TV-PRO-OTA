@@ -1,0 +1,14 @@
+{
+  "bundle_identifier": "ch.sebastianbuergy.easivotvpro",
+  "version": "1.0.0",
+  "build": "40",
+  "commit": "c797fd8a8fd58592be26785cd00573bbd372774c",
+  "ipa_sha256": "d08d85f9455a00988e793a0e22af2d830ac3de23807bc73cd0d236078098db70",
+  "ipa_size_bytes": 49418393,
+  "ad_hoc_registered_device_count": 2,
+  "ats_exact": true,
+  "localizations": ["de", "en"],
+  "resources_verified": true,
+  "main_ota_unchanged_build": 15,
+  "physical_playback_verified": false
+}
