@@ -1,10 +1,10 @@
 {
   "bundle_identifier": "ch.sebastianbuergy.easivotvpro",
   "version": "1.0.0",
-  "build": "69.21",
-  "commit": "e5eff4a2b837bccc3c15800ddcf4e1f1b7202877",
-  "ipa_sha256": "563c5f1f53769df991bcd144398d6a8a8a349200eb539af39e80aeeadfc83198",
-  "ipa_size_bytes": 49677711,
+  "build": "72.22",
+  "commit": "69675b5720c211383b9f7b1499dbcdf7e5b1fcc4",
+  "ipa_sha256": "06d3d03762cd055a0d16c988e708a2017fec20901ab6372786b1f6ac6ce59665",
+  "ipa_size_bytes": 49724478,
   "ad_hoc_registered_device_count": 2,
   "codemagic_build_id": "6aa81deae0b84b8fbf7f5386",
   "main_ota_unchanged_build": 15
