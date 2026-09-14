@@ -19,11 +19,11 @@
         <key>bundle-identifier</key>
         <string>ch.sebastianbuergy.easivotvpro</string>
         <key>bundle-version</key>
-        <string>62.17</string>
+        <string>64.18</string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>
-        <string>EASIVO TV PRO Live-TV Test</string>
+        <string>Bürgy TV Test</string>
       </dict>
     </dict>
   </array>
